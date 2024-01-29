@@ -1,0 +1,9 @@
+{
+  
+    "compilerOptions": {
+      "paths": {
+        "cypress/*": ["./cypress/*"]
+      },
+      "esModuleInterop": true,
+    },
+}

@@ -7,3 +7,10 @@ export const SOCIAL_MEDIA_PATHS: Record<string, string> = {
   linkedin: "https://www.linkedin.com/company/helmes-as",
   instagram: "https://www.instagram.com/helmes_people/",
 };
+
+export const LANGUAGES = {
+  GERMAN: "GER",
+  FRENCH: "FRA",
+  NORWEGIAN: "NO",
+  ESTONIAN: "EST",
+};
